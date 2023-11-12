@@ -5,11 +5,11 @@ package com.sinema;
 public class Database {
 
     public static final String kullanici_adi = "root";
-    public static final String parola = "rootroot";
+    public static final String parola = "";
 
     public static final String db_ismi = "sinemaotomasyon";
 
-    public static final String host = "sinemaotomasyon.c7abt2robobe.eu-central-1.rds.amazonaws.com";
+    public static final String host = "localhost";
 
     public static final int port = 3306;
     

@@ -63,8 +63,6 @@ public class YetkiliGiris extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("D:\\Users\\Documents\\NetBeansProjects\\SinemaOtomasyonu\\src\\com\\sinema\\images\\yekilis_giris2.png")); // NOI18N
-
         jLabel1.setText("Kullanıcı Adı:");
 
         jLabel3.setText("Parola:");
